@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @MorganLee
-- Experienced:
-- PHP (or Laravel Framework), C, C++
-- Self-taught on learning VueJS, ChartJs, Novice JavaScript, CSS, HTML5
-- MariaDB or MySql
+Name goes after Lee Yond King @ Morgan.
+Born <a> homosapiens </a>
 
 
-
-- 👀 I’m into Agile Framework
-- 🌱 I’m currently self-learning API MVC Framework
-- 
 Connect to me:
 
 <a href="https://discordapp.com/users/301396666655834114">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
