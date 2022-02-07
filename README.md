@@ -8,7 +8,8 @@
 - 🌱 I’m currently self-learning API MVC Framework
 - 📫 How to reach me: @ leeyondking@gmail.com/ @leeyondking1997@hotmail.com
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mc5247&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mc5247&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 mlyk1234/mlyk1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
