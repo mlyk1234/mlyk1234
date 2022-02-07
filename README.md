@@ -45,6 +45,7 @@ Connect to me: </br>
 
 My Designs: </br>
 <a href="https://www.pinterest.com/mlyk1234/_created/"> ![image](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white) </a>
+
 Something cool I made: </br>
 <a href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/52180486101746375649058139402698652356416839793934344850186858214516047478785">![image](https://img.shields.io/badge/NFT-BitSlayer-blue?style=for-the-badge&logo=appveyor) </a>
 
