@@ -13,7 +13,7 @@ Connect to me:
 
 <a href="https://discordapp.com/users/301396666655834114">![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-<a href="https://www.reddit.com/user/XueHuaPiaoPiau">![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a> ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+<a href="https://www.reddit.com/user/XueHuaPiaoPiau">![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white%20⭐-34-yellow)</a> ![](https://img.shields.io/badge/stars%20⭐-34-yellow)
 
 <a href="mailto:leeyondking@gmail.com"> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 -   @ leeyondking@gmail.com/ @leeyondking1997@hotmail.com
