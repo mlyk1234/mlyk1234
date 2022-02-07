@@ -1,5 +1,5 @@
 Name goes after Lee Yond King @ Morgan. </br>
-Breed type: <a href="https://www.britannica.com/topic/Homo-sapiens"> homosapiens </a>
+Breed type: <a href="https://www.britannica.com/topic/Homo-sapiens" target="_blank"> homosapiens </a>
 
 
 Connect to me:
