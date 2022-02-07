@@ -1,6 +1,6 @@
 Name goes after Lee Yond King @ Morgan. </br>
 <a href="https://www.britannica.com/topic/Homo-sapiens" target="_blank" >![image](https://img.shields.io/badge/Breed%20Type-Homosapiens-50C878?style=for-the-badge&logo=ApacheCassandra&logoColor=white) </a>
-![image](https://img.shields.io/badge/Status-Vaccinated-50C878?style=for-the-badge&logo=stitcher&logoColor=white)
+<a href="https://keepmeme.com/meme/putin-give-this-man-a-vaccine-meme" target="_blank" >![image](https://img.shields.io/badge/Status-Vaccinated-50C878?style=for-the-badge&logo=stitcher&logoColor=white) </a>
 
 Web Development: </br>
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
