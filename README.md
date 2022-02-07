@@ -1,5 +1,6 @@
 Name goes after Lee Yond King @ Morgan. </br>
 Breed type: <a href="https://www.britannica.com/topic/Homo-sapiens" target="_blank" > homosapiens </a> </br>
+![image](https://img.shields.io/badge/Breed%20Type-Homosapiens-green?style=for-the-badge&logo=ApacheCassandra&logoColor=green)
 ![image](https://img.shields.io/badge/Status-Vaccinated-green?style=for-the-badge&logo=stitcher&logoColor=green)
 
 
