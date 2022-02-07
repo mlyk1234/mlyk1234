@@ -10,7 +10,7 @@
 - 🌱 I’m currently self-learning API MVC Framework
 - 
 - 📫 How to reach me:
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="gmail.com"> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 -   @ leeyondking@gmail.com/ @leeyondking1997@hotmail.com
 
 
