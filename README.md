@@ -51,8 +51,6 @@ Connect to me (click below): </br>
 
 
 
-My Jam: </br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mc5247&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!---
 mlyk1234/mlyk1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
