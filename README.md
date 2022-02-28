@@ -37,8 +37,6 @@ Design Tools: </br>
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-![Untitled design (3)](https://user-images.githubusercontent.com/32647481/152864881-4c00680b-5fb8-4950-9aa7-ffa69f4ce74d.gif)
-
 Connect to me (click below): </br>
 <a href="mailto:leeyondking@gmail.com"> ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
