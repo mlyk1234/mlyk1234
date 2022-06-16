@@ -1,4 +1,4 @@
-Name goes after Lee Yond King @ Morgan. </br>
+Mo. </br>
 <a href="https://www.britannica.com/topic/Homo-sapiens" target="_blank" >![image](https://img.shields.io/badge/Breed%20Type-Homosapiens-50C878?style=for-the-badge&logo=ApacheCassandra&logoColor=white) </a>
 
 My Designs (click below): </br>
