@@ -4,6 +4,6 @@ Something cool I created (click below): </br>
 
 
 <!---
-mlyk1234/mlyk1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mlyk1234/mlyk1234 is a ✨ less special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
