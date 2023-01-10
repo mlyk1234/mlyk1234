@@ -8,3 +8,5 @@ mlyk1234/mlyk1234 is a ✨ less special ✨ repository because its `README.md` (
 --->
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlyk1234&theme=tokyonight)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mlyk1234)](https://github.com/LordDashMe/github-contribution-stats/)
