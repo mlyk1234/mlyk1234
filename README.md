@@ -6,3 +6,5 @@ Something cool I created (click below): </br>
 <!---
 mlyk1234/mlyk1234 is a ✨ less special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlyk1234&theme=tokyonight)
